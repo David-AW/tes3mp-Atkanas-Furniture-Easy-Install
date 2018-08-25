@@ -2,7 +2,7 @@
 
 This script requires **ScriptLoader.lua** url: https://github.com/David-AW/tes3mp-Script-Loader
 
-#Installation
+# Installation
 
 Drop **kanaFurniture.lua** and **decorateHelp.lua** into **mpstuff/scripts/**
 
