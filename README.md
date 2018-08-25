@@ -1,5 +1,7 @@
 # Atkana's Furniture Script with Easy Install
 
+Script made by Atkana https://github.com/Atkana
+
 This script requires **ScriptLoader.lua** url: https://github.com/David-AW/tes3mp-Script-Loader
 
 # Installation
